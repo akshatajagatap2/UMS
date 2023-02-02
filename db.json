@@ -1,0 +1,59 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767"
+    },
+    {
+      "name": "Ashish",
+      "email": "ashish@gmail.com",
+      "phone": "8974561235",
+      "active": true,
+      "id": 6
+    },
+    {
+      "name": "yogesh",
+      "email": "yogesh@gmail.com",
+      "phone": "65897413412",
+      "active": true,
+      "id": 7
+    },
+    {
+      "name": "sangita",
+      "email": "sa@gmail.com",
+      "phone": "784552222",
+      "active": true,
+      "id": 8
+    },
+    {
+      "name": "sangita",
+      "email": "sa@gmail.com",
+      "phone": "784552222",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "aks",
+      "email": "akshatajagatap36@gmail.com",
+      "phone": "+918669073653",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "Akshata Tukaram Jagatap",
+      "email": "akshatajagatap36@gmail.com",
+      "phone": "+918669073653",
+      "active": true,
+      "id": 11
+    },
+    {
+      "name": "Akshata Tukaram Jagatap",
+      "email": "akshatajagatap36@gmail.com",
+      "phone": "+918669073653",
+      "active": true,
+      "id": 12
+    }
+  ]
+}
